@@ -25,6 +25,7 @@ const CrearArchivo = (base, limite) => {
         for (let i = 1; i < limite + 1; i++) {
 
             tabla += `${base} x ${i} =  ${base*i}\n`
+            tabla.america;
 
 
         }
